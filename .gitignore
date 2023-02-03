@@ -16,6 +16,7 @@ test/
 windows/
 linux/
 macos/
+web/
 
 # 파일 무시 때리기
 *.cc
@@ -24,6 +25,7 @@ macos/
 *.cpp
 *.swift
 *.gradle
+*.kt
 
 # IntelliJ related
 *.iml
